@@ -17,6 +17,272 @@
   },
   "chapters": [
     {
+      "chapter": 10,
+      "characters": [
+        {
+          "number": 102,
+          "character": "場",
+          "meaning": "place, space, spot, situation",
+          "usages": [
+            {
+              "furigana": "場｜ば　所｜しょ",
+              "meaning": "place"
+            },
+            {
+              "furigana": "広｜ひろ　場｜ば",
+              "meaning": "public space"
+            },
+            {
+              "furigana": "会｜かい　場｜じょう",
+              "meaning": "venue"
+            },
+            {
+              "furigana": "ゴルフ　場｜じょう",
+              "meaning": "golf course"
+            },
+            {
+              "furigana": "入｜にゅう　場｜じょう　料｜りょう",
+              "meaning": "entrance fee"
+            }
+          ]
+        },
+        {
+          "number": 103,
+          "character": "物",
+          "meaning": "thing, object, matter, substance, goods",
+          "usages": [
+            {
+              "furigana": "買｜か　い　物｜もの",
+              "meaning": "shopping"
+            },
+            {
+              "furigana": "食｜た　べ　物｜もの",
+              "meaning": "food"
+            },
+            {
+              "furigana": "飲｜の　み　物｜もの",
+              "meaning": "drink"
+            },
+            {
+              "furigana": "物｜もの　語｜がたり",
+              "meaning": "story, tale"
+            },
+            {
+              "furigana": "動｜どう　物｜ぶつ",
+              "meaning": "animal"
+            },
+            {
+              "furigana": "荷｜に　物｜もつ",
+              "meaning": "luggage"
+            }
+          ]
+        },
+        {
+          "number": 104,
+          "character": "校",
+          "meaning": "school",
+          "usages": [
+            {
+              "furigana": "学｜がっ　校｜こう",
+              "meaning": "school"
+            },
+            {
+              "furigana": "中｜ちゅう　学｜がっ　校｜こう",
+              "meaning": "middle school"
+            },
+            {
+              "furigana": "小｜しょう　学｜がっ　校｜こう",
+              "meaning": "elementary school"
+            },
+            {
+              "furigana": "高｜こう　校｜こう",
+              "meaning": "high school"
+            },
+            {
+              "furigana": "校｜こう　長｜ちょう",
+              "meaning": "school principal"
+            }
+          ]
+        },
+        {
+          "number": 105,
+          "character": "市",
+          "meaning": "market, city",
+          "usages": [
+            {
+              "furigana": "市｜いち　場｜ば",
+              "meaning": "market (not しじょう)"
+            },
+            {
+              "furigana": "朝｜あさ　市｜いち",
+              "meaning": "morning market"
+            },
+            {
+              "furigana": "京｜きょう　都｜と　市｜し",
+              "meaning": "Kyoto"
+            },
+            {
+              "furigana": "都｜と　市｜し",
+              "meaning": "city (not まち)"
+            },
+            {
+              "furigana": "市｜し　場｜じょう",
+              "meaning": "market (not いちば)"
+            }
+          ]
+        },
+        {
+          "number": 106,
+          "character": "立",
+          "meaning": "to stand, to rise, to set up, to raise",
+          "usages": [
+            {
+              "furigana": "〜が　立｜た　つ",
+              "meaning": "to stand"
+            },
+            {
+              "furigana": "〜を　立｜た　てる",
+              "meaning": "to set up, to raise"
+            },
+            {
+              "furigana": "市｜し　立｜りつ",
+              "meaning": "municipal"
+            },
+            {
+              "furigana": "国｜こく　立｜りつ",
+              "meaning": "national"
+            },
+            {
+              "furigana": "私｜し　立｜りつ",
+              "meaning": "private"
+            }
+          ]
+        },
+        {
+          "number": 107,
+          "character": "公",
+          "meaning": "public, official, formal",
+          "usages": [
+            {
+              "furigana": "公｜おおやけ",
+              "meaning": "in public"
+            },
+            {
+              "furigana": "公｜こう　園｜えん",
+              "meaning": "park"
+            },
+            {
+              "furigana": "公｜こう　立｜りつ",
+              "meaning": "public"
+            }
+          ]
+        },
+        {
+          "number": 108,
+          "character": "園",
+          "meaning": "garden",
+          "usages": [
+            {
+              "furigana": "花｜はな　園｜ぞの",
+              "meaning": "flower garden"
+            },
+            {
+              "furigana": "公｜こう　園｜えん",
+              "meaning": "park"
+            },
+            {
+              "furigana": "動｜どう　物｜ぶつ　園｜えん",
+              "meaning": "zoo"
+            }
+          ]
+        },
+        {
+          "number": 109,
+          "character": "屋",
+          "meaning": "house, building, roof, shop",
+          "usages": [
+            {
+              "furigana": "本｜ほん　屋｜や",
+              "meaning": "book shop"
+            },
+            {
+              "furigana": "パン　屋｜や",
+              "meaning": "bakery shop"
+            },
+            {
+              "furigana": "花｜はな　屋｜や",
+              "meaning": "florist shop"
+            },
+            {
+              "furigana": "屋｜おく　上｜じょう",
+              "meaning": "top of the building"
+            }
+          ]
+        },
+        {
+          "number": 110,
+          "character": "交",
+          "meaning": "to cross, to exchange, to intersect",
+          "usages": [
+            {
+              "furigana": "交｜まじ　わる",
+              "meaning": "to associate with, to keep company with"
+            },
+            {
+              "furigana": "交｜か　わす",
+              "meaning": "to exchange"
+            },
+            {
+              "furigana": "交｜こう　番｜ばん",
+              "meaning": "police box"
+            },
+            {
+              "furigana": "交｜こう　通｜つう",
+              "meaning": "traffic"
+            }
+          ]
+        },
+        {
+          "number": 111,
+          "character": "差",
+          "meaning": "difference, gap",
+          "usages": [
+            {
+              "furigana": "差｜さ　す",
+              "meaning": "to hold (an umbrella), to shine (into), to insert"
+            },
+            {
+              "furigana": "日｜ひ　差｜ざ　し",
+              "meaning": "sunlight, sunshine"
+            },
+            {
+              "furigana": "AとBの　差｜さ",
+              "meaning": "difference between A and B"
+            }
+          ]
+        },
+        {
+          "number": 112,
+          "character": "点",
+          "meaning": "point, mark, spot",
+          "usages": [
+            {
+              "furigana": "交｜こう　差｜さ　点｜てん",
+              "meaning": "intersection"
+            },
+            {
+              "furigana": "点",
+              "meaning": "point, dot"
+            },
+            {
+              "furigana": "１００　店｜てん",
+              "meaning": "one hundred points"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 11,
       "characters": [
         {
