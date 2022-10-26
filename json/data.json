@@ -17,6 +17,243 @@
   },
   "chapters": [
     {
+      "chapter": 12,
+      "characters": [
+        {
+          "number": 124,
+          "character": "予",
+          "meaning": "in advance, previously, beforehand",
+          "usages": [
+            {
+              "furigana": "予｜よ　定｜てい　（する）",
+              "meaning": "to schedule"
+            },
+            {
+              "furigana": "予｜よ　算｜さん",
+              "meaning": "budget"
+            }
+          ]
+        },
+        {
+          "number": 125,
+          "character": "定",
+          "meaning": "to decide, to determine, to be settled, certain",
+          "usages": [
+            {
+              "furigana": "定｜さだ　める",
+              "meaning": "to decide, to determine"
+            },
+            {
+              "furigana": "予｜よ　定｜てい　（する）",
+              "meaning": "to schedule"
+            },
+            {
+              "furigana": "定｜てい　食｜しょく",
+              "meaning": "set meal"
+            },
+            {
+              "furigana": "定｜てい　年｜ねん",
+              "meaning": "retirement age"
+            }
+          ]
+        },
+        {
+          "number": 126,
+          "character": "議",
+          "meaning": "to consult, to discuss, to debate",
+          "usages": [
+            {
+              "furigana": "会｜かい　議｜ぎ",
+              "meaning": "meeting"
+            },
+            {
+              "furigana": "国｜こっ　会｜かい　議｜ぎ　員｜いん",
+              "meaning": "member of the Diet"
+            },
+            {
+              "furigana": "議｜ぎ　会｜かい",
+              "meaning": "legislative body, assembly"
+            }
+          ]
+        },
+        {
+          "number": 127,
+          "character": "映",
+          "meaning": "to reflect, to project, to cast",
+          "usages": [
+            {
+              "furigana": "映｜うつ　る",
+              "meaning": "to be reflected"
+            },
+            {
+              "furigana": "映｜えい　画｜が",
+              "meaning": "movie"
+            },
+            {
+              "furigana": "反｜はん　映｜えい　（する）",
+              "meaning": "to reflect"
+            }
+          ]
+        },
+        {
+          "number": 128,
+          "character": "画",
+          "meaning": "picture, to draw up a plan",
+          "usages": [
+            {
+              "furigana": "画｜が　面｜めん",
+              "meaning": "screen"
+            },
+            {
+              "furigana": "映｜えい　画｜が",
+              "meaning": "movie"
+            },
+            {
+              "furigana": "計｜けい　画｜かく　（する）",
+              "meaning": "to plan"
+            }
+          ]
+        },
+        {
+          "number": 129,
+          "character": "張",
+          "meaning": "to stretch, to spread, to strain",
+          "usages": [
+            {
+              "furigana": "張｜は　る",
+              "meaning": "to stretch, to spread"
+            },
+            {
+              "furigana": "出｜しゅっ　張｜ちょう　（する）",
+              "meaning": "to go on a business trip"
+            }
+          ]
+        },
+        {
+          "number": 130,
+          "character": "送",
+          "meaning": "to send, to forward",
+          "usages": [
+            {
+              "furigana": "送｜おく　る",
+              "meaning": "to send"
+            },
+            {
+              "furigana": "送｜そう　金｜きん　（する）",
+              "meaning": "to send money"
+            }
+          ]
+        },
+        {
+          "number": 131,
+          "character": "別",
+          "meaning": "distinction, difference, to separate, to part ways, another, extra",
+          "usages": [
+            {
+              "furigana": "別｜わか　れる",
+              "meaning": "to part ways, to say goodbye"
+            },
+            {
+              "furigana": "送｜そう　別｜べつ　会｜かい",
+              "meaning": "farewell party"
+            },
+            {
+              "furigana": "別｜べつ",
+              "meaning": "separate, another, extra"
+            },
+            {
+              "furigana": "特｜とく　別｜べつ　（な）",
+              "meaning": "special"
+            }
+          ]
+        },
+        {
+          "number": 132,
+          "character": "仕",
+          "meaning": "to serve, to work under, to attend on",
+          "usages": [
+            {
+              "furigana": "仕｜つか　える",
+              "meaning": "to serve, to be in someone's service"
+            },
+            {
+              "furigana": "仕｜し　事｜ごと",
+              "meaning": "work"
+            },
+            {
+              "furigana": "〜の　仕｜し　方｜かた",
+              "meaning": "wat to …"
+            }
+          ]
+        },
+        {
+          "number": 133,
+          "character": "事",
+          "meaning": "thing, matter, affair, incident, fact",
+          "usages": [
+            {
+              "furigana": "仕｜し　事｜ごと",
+              "meaning": "work"
+            },
+            {
+              "furigana": "事｜こと",
+              "meaning": "thing, matter"
+            },
+            {
+              "furigana": "食｜しょく　事｜じ　（する）",
+              "meaning": "to have a meal"
+            },
+            {
+              "furigana": "火｜か　事｜じ",
+              "meaning": "fire"
+            },
+            {
+              "furigana": "大｜だい　事｜じ　（な）",
+              "meaning": "important"
+            }
+          ]
+        },
+        {
+          "number": 134,
+          "character": "終",
+          "meaning": "to end, to finish, to come to an end",
+          "usages": [
+            {
+              "furigana": "〜が　終｜お　わる",
+              "meaning": "to come to an end"
+            },
+            {
+              "furigana": "〜を　終｜お　える",
+              "meaning": "to finish (something)"
+            },
+            {
+              "furigana": "最｜さい　終｜しゅう",
+              "meaning": "final"
+            }
+          ]
+        },
+        {
+          "number": 135,
+          "character": "始",
+          "meaning": "to begin, to start",
+          "usages": [
+            {
+              "furigana": "〜が　始｜はじ　まる",
+              "meaning": "to begin"
+            },
+            {
+              "furigana": "〜を　始｜はじ　める",
+              "meaning": "to start"
+            },
+            {
+              "furigana": "年｜ねん　始｜し",
+              "meaning": "beginning of the year"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 13,
       "characters": [
         {
