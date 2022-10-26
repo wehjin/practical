@@ -17,6 +17,240 @@
   },
   "chapters": [
     {
+      "chapter": 13,
+      "characters": [
+        {
+          "number": 136,
+          "character": "空",
+          "meaning": "sky, air, empty, to empty, to vacate",
+          "usages": [
+            {
+              "furigana": "空｜そら",
+              "meaning": "sky"
+            },
+            {
+              "furigana": "空｜あ　く",
+              "meaning": "to open up, to empty"
+            },
+            {
+              "furigana": "空｜から　手｜て",
+              "meaning": "karate"
+            },
+            {
+              "furigana": "空｜くう　気｜き",
+              "meaning": "air"
+            }
+          ]
+        },
+        {
+          "number": 137,
+          "character": "港",
+          "meaning": "port, harbor",
+          "usages": [
+            {
+              "furigana": "港｜みなと",
+              "meaning": "port (ships)"
+            },
+            {
+              "furigana": "空｜くう　港｜こう",
+              "meaning": "airport"
+            }
+          ]
+        },
+        {
+          "number": 138,
+          "character": "地",
+          "meaning": "ground, land, earth, soil, place",
+          "usages": [
+            {
+              "furigana": "地｜ち　下｜か",
+              "meaning": "underground"
+            },
+            {
+              "furigana": "地｜ち　図｜ず",
+              "meaning": "map"
+            },
+            {
+              "furigana": "土｜と　地｜ち",
+              "meaning": "land, soil, earth"
+            },
+            {
+              "furigana": "地｜ち　方｜ほう",
+              "meaning": "region, rural area"
+            },
+            {
+              "furigana": "地｜じ　震｜しん",
+              "meaning": "earthquake"
+            },
+            {
+              "furigana": "地｜ち　名｜めい",
+              "meaning": "place name"
+            }
+          ]
+        },
+        {
+          "number": 139,
+          "character": "鉄",
+          "meaning": "iron",
+          "usages": [
+            {
+              "furigana": "地｜ち　下｜か　鉄｜てつ",
+              "meaning": "subway"
+            }
+          ]
+        },
+        {
+          "number": 140,
+          "character": "便",
+          "meaning": "mail, news, letter, convenience",
+          "usages": [
+            {
+              "furigana": "便｜たよ　り",
+              "meaning": "correspondence, a letter"
+            },
+            {
+              "furigana": "不｜ふ　便｜べん　（な）",
+              "meaning": "inconvenient"
+            },
+            {
+              "furigana": "JL９５　便｜びん",
+              "meaning": "JL flight 95"
+            },
+            {
+              "furigana": "郵｜ゆう　便｜びん　局｜きょく",
+              "meaning": "post office"
+            },
+            {
+              "furigana": "郵｜ゆう　便｜びん　番｜ばん　号｜ごう",
+              "meaning": "postal code"
+            }
+          ]
+        },
+        {
+          "number": 141,
+          "character": "利",
+          "meaning": "profit, advantage, benefit",
+          "usages": [
+            {
+              "furigana": "利｜き　く",
+              "meaning": "to have an effect, to be good for"
+            },
+            {
+              "furigana": "便｜べん　利｜り　（な）",
+              "meaning": "convenient"
+            }
+          ]
+        },
+        {
+          "number": 142,
+          "character": "線",
+          "meaning": "line, track",
+          "usages": [
+            {
+              "furigana": "線｜せん",
+              "meaning": "line"
+            },
+            {
+              "furigana": "新｜しん　幹｜かん　線｜せん",
+              "meaning": "bullet train"
+            }
+          ]
+        },
+        {
+          "number": 143,
+          "character": "乗",
+          "meaning": "to get on, to ride, to mount",
+          "usages": [
+            {
+              "furigana": "乗｜の　る",
+              "meaning": "to ride"
+            },
+            {
+              "furigana": "乗｜の　りかえる",
+              "meaning": "to change (trains), to transfer"
+            },
+            {
+              "furigana": "乗｜じょう　客｜きゃく",
+              "meaning": "passenger"
+            }
+          ]
+        },
+        {
+          "number": 144,
+          "character": "降",
+          "meaning": "to get off, to fall, to come down",
+          "usages": [
+            {
+              "furigana": "降｜お　りる",
+              "meaning": "to get off"
+            },
+            {
+              "furigana": "降｜ふ　る",
+              "meaning": "to fall, to rain down"
+            },
+            {
+              "furigana": "以｜い　降｜こう",
+              "meaning": "… and after, from … on"
+            }
+          ]
+        },
+        {
+          "number": 145,
+          "character": "間",
+          "meaning": "interval, space, time, distance, between, among",
+          "usages": [
+            {
+              "furigana": "AとBの　間｜あいだ",
+              "meaning": "between A and B"
+            },
+            {
+              "furigana": "間｜ま　に　合｜あ　う",
+              "meaning": "to make it on time"
+            },
+            {
+              "furigana": "この　間｜あいだ",
+              "meaning": "the other day"
+            },
+            {
+              "furigana": "時｜じ　間｜かん",
+              "meaning": "time"
+            },
+            {
+              "furigana": "２　時｜じ　間｜かん",
+              "meaning": "two hours"
+            },
+            {
+              "furigana": "２　週｜しゅう　間｜かん",
+              "meaning": "two weeks"
+            },
+            {
+              "furigana": "人｜にん　間｜げん",
+              "meaning": "human being"
+            }
+          ]
+        },
+        {
+          "number": 146,
+          "character": "田",
+          "meaning": "rice field",
+          "usages": [
+            {
+              "furigana": "田｜た　中｜なか",
+              "meaning": "Tanaka (surname)"
+            },
+            {
+              "furigana": "上｜うえ　田｜だ",
+              "meaning": "Ueda (surname)"
+            },
+            {
+              "furigana": "油｜ゆ　田｜でん",
+              "meaning": "oil field"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 14,
       "characters": [
         {
