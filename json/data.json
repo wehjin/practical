@@ -17,6 +17,256 @@
   },
   "chapters": [
     {
+      "chapter": 11,
+      "characters": [
+        {
+          "number": 113,
+          "character": "歌",
+          "meaning": "song, to sing",
+          "usages": [
+            {
+              "furigana": "歌｜うた",
+              "meaning": "song"
+            },
+            {
+              "furigana": "歌｜うた　う",
+              "meaning": "to sing"
+            },
+            {
+              "furigana": "歌｜か　手｜しゅ",
+              "meaning": "singer"
+            },
+            {
+              "furigana": "歌｜か　舞｜ぶ　伎｜き",
+              "meaning": "kabuki"
+            }
+          ]
+        },
+        {
+          "number": 114,
+          "character": "気",
+          "meaning": "spirit, air, mind, feelings, mood",
+          "usages": [
+            {
+              "furigana": "電｜でん　気｜き",
+              "meaning": "electricity"
+            },
+            {
+              "furigana": "人｜にん　気｜き",
+              "meaning": "popular"
+            },
+            {
+              "furigana": "気｜き　分｜ぶん",
+              "meaning": "mood"
+            },
+            {
+              "furigana": "気｜き　に　入｜い　る",
+              "meaning": "to like (have interest)"
+            },
+            {
+              "furigana": "気｜き　をつける",
+              "meaning": "to be careful"
+            }
+          ]
+        },
+        {
+          "number": 115,
+          "character": "友",
+          "meaning": "friend, companion, mate",
+          "usages": [
+            {
+              "furigana": "友｜とも　達｜だち",
+              "meaning": "friend (not ゆうじん)"
+            },
+            {
+              "furigana": "友｜ゆう　人｜じん",
+              "meaning": "friend (not ともだち)"
+            }
+          ]
+        },
+        {
+          "number": 116,
+          "character": "新",
+          "meaning": "new, fresh, novel, latest",
+          "usages": [
+            {
+              "furigana": "新｜あたら　しい",
+              "meaning": "new (not あらた)"
+            },
+            {
+              "furigana": "新｜あら　た　（な）",
+              "meaning": "new (not あたらしい)"
+            },
+            {
+              "furigana": "新｜にい　潟｜がた　県｜けん",
+              "meaning": "Nigata Prefecture"
+            },
+            {
+              "furigana": "新｜しん　聞｜ぶん",
+              "meaning": "newspaper"
+            }
+          ]
+        },
+        {
+          "number": 117,
+          "character": "車",
+          "meaning": "car, vehicle, wheel",
+          "usages": [
+            {
+              "furigana": "車｜くるま",
+              "meaning": "automobile"
+            },
+            {
+              "furigana": "電｜でん　車｜しゃ",
+              "meaning": "train"
+            }
+          ]
+        },
+        {
+          "number": 118,
+          "character": "週",
+          "meaning": "week",
+          "usages": [
+            {
+              "furigana": "週｜しゅう",
+              "meaning": "week"
+            },
+            {
+              "furigana": "先｜せん　週｜しゅう",
+              "meaning": "last week"
+            },
+            {
+              "furigana": "今｜こん　週｜しゅう",
+              "meaning": "this week"
+            },
+            {
+              "furigana": "来｜らい　週｜しゅう",
+              "meaning": "next week"
+            },
+            {
+              "furigana": "毎｜まい　週｜しゅう",
+              "meaning": "every week"
+            }
+          ]
+        },
+        {
+          "number": 119,
+          "character": "末",
+          "meaning": "end, close",
+          "usages": [
+            {
+              "furigana": "今｜こん　月｜げつ　の　末｜すえ",
+              "meaning": "end of this month"
+            },
+            {
+              "furigana": "週｜しゅう　末｜まつ",
+              "meaning": "end of the week"
+            },
+            {
+              "furigana": "月｜げつ　末｜まつ",
+              "meaning": "end of the month"
+            },
+            {
+              "furigana": "年｜ねん　末｜まつ",
+              "meaning": "end of the year"
+            }
+          ]
+        },
+        {
+          "number": 120,
+          "character": "先",
+          "meaning": "point, tip, end, front, previous, last, ahead",
+          "usages": [
+            {
+              "furigana": "〜の　先｜さき",
+              "meaning": "past the …"
+            },
+            {
+              "furigana": "お　先｜さき　に",
+              "meaning": "Go ahead."
+            },
+            {
+              "furigana": "先｜せん　生｜せい",
+              "meaning": "teacher"
+            },
+            {
+              "furigana": "先｜せん　月｜げつ",
+              "meaning": "last month"
+            },
+            {
+              "furigana": "先｜せん　進｜しん　国｜こく",
+              "meaning": "developed nation"
+            }
+          ]
+        },
+        {
+          "number": 121,
+          "character": "明",
+          "meaning": "bright, light, clear, to begin",
+          "usages": [
+            {
+              "furigana": "明｜あか　るい",
+              "meaning": "bright, cheerful"
+            },
+            {
+              "furigana": "明|あ 日｜した/す",
+              "meaning": "tomorrow (not みょうにち)"
+            },
+            {
+              "furigana": "明｜あき　らか　（な）",
+              "meaning": "obvious, clear"
+            },
+            {
+              "furigana": "年｜とし　明｜あ　け",
+              "meaning": "beginning of the New Year"
+            },
+            {
+              "furigana": "説｜せつ　明｜めい　（する）",
+              "meaning": "to explain"
+            },
+            {
+              "furigana": "明｜みょう　日｜にち",
+              "meaning": "tomorrow (not あした/あす)"
+            }
+          ]
+        },
+        {
+          "number": 122,
+          "character": "元",
+          "meaning": "origin, source, root, former",
+          "usages": [
+            {
+              "furigana": "元｜もと　社｜しゃ　長｜ちょう",
+              "meaning": "former company president"
+            },
+            {
+              "furigana": "元｜げん　気｜き　（な）",
+              "meaning": "healthy"
+            },
+            {
+              "furigana": "元｜がん　日｜じつ",
+              "meaning": "New Year's day"
+            }
+          ]
+        },
+        {
+          "number": 123,
+          "character": "働",
+          "meaning": "to work, to labor",
+          "usages": [
+            {
+              "furigana": "働｜はたら　く",
+              "meaning": "to work"
+            },
+            {
+              "furigana": "労｜ろう　働｜どう",
+              "meaning": "labor"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "chapter": 12,
       "characters": [
         {
