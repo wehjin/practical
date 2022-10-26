@@ -1,174 +1,376 @@
 {
-  "characters": [
+  "chapter-template": {
+    "chapter": 1,
+    "characters": [
+      {
+        "number": 1,
+        "character": "",
+        "meaning": "",
+        "usages": [
+          {
+            "furigana": "",
+            "meaning": ""
+          }
+        ]
+      }
+    ]
+  },
+  "chapters": [
     {
-      "character": "手",
-      "chapter": 15,
-      "number": 155,
-      "meaning": "hand, arm, way",
-      "usages": [
+      "chapter": 14,
+      "characters": [
         {
-          "furigana": "手｜て",
-          "meaning": "hand"
+          "number": 147,
+          "character": "工",
+          "meaning": "engineering, to craft, to manufacture",
+          "usages": [
+            {
+              "furigana": "工｜こう　場｜じょう",
+              "meaning": "factory"
+            },
+            {
+              "furigana": "工｜こう　事｜じ",
+              "meaning": "construction work"
+            },
+            {
+              "furigana": "工｜く　夫｜ふ",
+              "meaning": "plan, means"
+            }
+          ]
         },
         {
-          "furigana": "切｜きっ　手｜て",
-          "meaning": "postage stamp"
+          "number": 148,
+          "character": "受",
+          "meaning": "to get, to take, to receive, to accept",
+          "usages": [
+            {
+              "furigana": "受｜う　ける",
+              "meaning": "to accept, to receive"
+            },
+            {
+              "furigana": "受｜じゅ　験｜けん　（する）",
+              "meaning": "to take a test"
+            }
+          ]
         },
         {
-          "furigana": "下｜へ　手｜た　（な）",
-          "meaning": "untalented, unskilled"
+          "number": 149,
+          "character": "付",
+          "meaning": "to attach, to fix",
+          "usages": [
+            {
+              "furigana": "〜が　付｜つ　く",
+              "meaning": "to come (with something)"
+            },
+            {
+              "furigana": "受｜うけ　付｜つけ",
+              "meaning": "reception"
+            },
+            {
+              "furigana": "朝｜ちょう　食｜しょく　付｜つき",
+              "meaning": "breakfast included"
+            },
+            {
+              "furigana": "〜を　付｜つ　ける",
+              "meaning": "to include (something)"
+            },
+            {
+              "furigana": "送｜そう　付｜ふ　（する）",
+              "meaning": "to send"
+            }
+          ]
         },
         {
-          "furigana": "手｜て　伝｜つだ　う",
-          "meaning": "to lend a hand"
+          "number": 150,
+          "character": "務",
+          "meaning": "duty, to perform, to act",
+          "usages": [
+            {
+              "furigana": "務｜つと　める",
+              "meaning": "to serve (as), to perform (the part of)"
+            },
+            {
+              "furigana": "事｜じ　務｜む　所｜しょ",
+              "meaning": "office"
+            },
+            {
+              "furigana": "公｜こう　務｜む　員｜いん",
+              "meaning": "government worker"
+            }
+          ]
         },
         {
-          "furigana": "歌｜か　手｜しゅ",
-          "meaning": "singer"
+          "number": 151,
+          "character": "所",
+          "meaning": "place, spot, scene, area, point, location",
+          "usages": [
+            {
+              "furigana": "所｜ところ",
+              "meaning": "location"
+            },
+            {
+              "furigana": "台｜だい　所｜どころ",
+              "meaning": "kitchen"
+            },
+            {
+              "furigana": "場｜ば　所｜しょ",
+              "meaning": "place"
+            },
+            {
+              "furigana": "住｜じゅう　所｜しょ",
+              "meaning": "address (residence)"
+            }
+          ]
         },
         {
-          "furigana": "上｜じょう　手｜ず　（な）",
-          "meaning": "talented, skillfully"
+          "number": 152,
+          "character": "部",
+          "meaning": "part, section, department, division, club",
+          "usages": [
+            {
+              "furigana": "システム　部｜ぶ",
+              "meaning": "systems department"
+            },
+            {
+              "furigana": "部｜ぶ　分｜ぶん",
+              "meaning": "part"
+            },
+            {
+              "furigana": "工｜こう　学｜がく　部｜ぶ",
+              "meaning": "department of engineering"
+            },
+            {
+              "furigana": "部｜ぶ　下｜か",
+              "meaning": "subordinate"
+            },
+            {
+              "furigana": "部｜ぶ　員｜いん",
+              "meaning": "staff, member (of a club or society)"
+            },
+            {
+              "furigana": "部｜へ　屋｜や",
+              "meaning": "room"
+            }
+          ]
+        },
+        {
+          "number": 153,
+          "character": "課",
+          "meaning": "section, lesson, to impose",
+          "usages": [
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            }
+          ]
+        },
+        {
+          "number": 154,
+          "character": "長",
+          "meaning": "long, chief, head",
+          "usages": [
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            },
+            {
+              "furigana": "",
+              "meaning": ""
+            }
+          ]
         }
       ]
     },
     {
-      "character": "紙",
       "chapter": 15,
-      "number": 156,
-      "meaning": "paper",
-      "usages": [
+      "characters": [
         {
-          "furigana": "紙｜かみ",
-          "meaning": "paper"
+          "character": "手",
+          "number": 155,
+          "meaning": "hand, arm, way",
+          "usages": [
+            {
+              "furigana": "手｜て",
+              "meaning": "hand"
+            },
+            {
+              "furigana": "切｜きっ　手｜て",
+              "meaning": "postage stamp"
+            },
+            {
+              "furigana": "下｜へ　手｜た　（な）",
+              "meaning": "untalented, unskilled"
+            },
+            {
+              "furigana": "手｜て　伝｜つだ　う",
+              "meaning": "to lend a hand"
+            },
+            {
+              "furigana": "歌｜か　手｜しゅ",
+              "meaning": "singer"
+            },
+            {
+              "furigana": "上｜じょう　手｜ず　（な）",
+              "meaning": "talented, skillfully"
+            }
+          ]
         },
         {
-          "furigana": "手｜て　紙｜がみ",
-          "meaning": "letter (correspondence)"
+          "character": "紙",
+          "number": 156,
+          "meaning": "paper",
+          "usages": [
+            {
+              "furigana": "紙｜かみ",
+              "meaning": "paper"
+            },
+            {
+              "furigana": "手｜て　紙｜がみ",
+              "meaning": "letter (correspondence)"
+            },
+            {
+              "furigana": "和｜わ　紙｜し",
+              "meaning": "Japanese paper"
+            }
+          ]
         },
         {
-          "furigana": "和｜わ　紙｜し",
-          "meaning": "Japanese paper"
-        }
-      ]
-    },
-    {
-      "character": "住",
-      "chapter": 15,
-      "number": 157,
-      "meaning": "to live, to dwell, to reside",
-      "usages": [
-        {
-          "furigana": "住｜す　む",
-          "meaning": "to reside (at a place)"
+          "character": "住",
+          "number": 157,
+          "meaning": "to live, to dwell, to reside",
+          "usages": [
+            {
+              "furigana": "住｜す　む",
+              "meaning": "to reside (at a place)"
+            },
+            {
+              "furigana": "住｜じゅう　所｜しょ",
+              "meaning": "address"
+            }
+          ]
         },
         {
-          "furigana": "住｜じゅう　所｜しょ",
-          "meaning": "address"
-        }
-      ]
-    },
-    {
-      "character": "道",
-      "chapter": 15,
-      "number": 158,
-      "meaning": "way, road",
-      "usages": [
-        {
-          "furigana": "道｜みち",
-          "meaning": "way, road"
+          "character": "道",
+          "number": 158,
+          "meaning": "way, road",
+          "usages": [
+            {
+              "furigana": "道｜みち",
+              "meaning": "way, road"
+            },
+            {
+              "furigana": "北｜ほっ　海｜かい　道｜どう",
+              "meaning": "Hokkaido (place-name)"
+            },
+            {
+              "furigana": "書｜しょ　道｜どう",
+              "meaning": "calligraphy"
+            },
+            {
+              "furigana": "道｜どう　路｜ろ",
+              "meaning": "road"
+            }
+          ]
         },
         {
-          "furigana": "北｜ほっ　海｜かい　道｜どう",
-          "meaning": "Hokkaido (place-name)"
+          "character": "府",
+          "number": 159,
+          "meaning": "(metropolitan) prefecture",
+          "usages": [
+            {
+              "furigana": "京｜きょう　都｜と　府｜ふ",
+              "meaning": "Kyoto Prefecture"
+            },
+            {
+              "furigana": "大｜おお　阪｜さか　府｜ふ",
+              "meaning": "Osaka Prefecture"
+            }
+          ]
         },
         {
-          "furigana": "書｜しょ　道｜どう",
-          "meaning": "calligraphy"
+          "character": "県",
+          "number": 160,
+          "meaning": "prefecture",
+          "usages": [
+            {
+              "furigana": "都｜と　道｜どう　府｜ふ　県｜けん",
+              "meaning": "municipalities and prefectures"
+            },
+            {
+              "furigana": "福｜服　岡｜おか　県｜けん",
+              "meaning": "Fukuoka Prefecture"
+            }
+          ]
         },
         {
-          "furigana": "道｜どう　路｜ろ",
-          "meaning": "road"
-        }
-      ]
-    },
-    {
-      "character": "府",
-      "chapter": 15,
-      "number": 159,
-      "meaning": "(metropolitan) prefecture",
-      "usages": [
-        {
-          "furigana": "京｜きょう　都｜と　府｜ふ",
-          "meaning": "Kyoto Prefecture"
+          "character": "区",
+          "number": 161,
+          "meaning": "ward, district, division, section",
+          "usages": [
+            {
+              "furigana": "中｜ちゅう　央｜おう　区｜く",
+              "meaning": "central ward, Chuo Ward"
+            },
+            {
+              "furigana": "地｜ち　区｜く",
+              "meaning": "district"
+            },
+            {
+              "furigana": "区｜く　役｜やく　所｜しょ",
+              "meaning": "ward office"
+            }
+          ]
         },
         {
-          "furigana": "大｜おお　阪｜さか　府｜ふ",
-          "meaning": "Osaka Prefecture"
-        }
-      ]
-    },
-    {
-      "character": "県",
-      "chapter": 15,
-      "number": 160,
-      "meaning": "prefecture",
-      "usages": [
-        {
-          "furigana": "都｜と　道｜どう　府｜ふ　県｜けん",
-          "meaning": "municipalities and prefectures"
-        },
-        {
-          "furigana": "福｜服　岡｜おか　県｜けん",
-          "meaning": "Fukuoka Prefecture"
-        }
-      ]
-    },
-    {
-      "character": "区",
-      "chapter": 15,
-      "number": 161,
-      "meaning": "ward, district, division, section",
-      "usages": [
-        {
-          "furigana": "中｜ちゅう　央｜おう　区｜く",
-          "meaning": "central ward, Chuo Ward"
-        },
-        {
-          "furigana": "地｜ち　区｜く",
-          "meaning": "district"
-        },
-        {
-          "furigana": "区｜く　役｜やく　所｜しょ",
-          "meaning": "ward office"
-        }
-      ]
-    },
-    {
-      "character": "町",
-      "chapter": 15,
-      "number": 162,
-      "meaning": "town, city",
-      "usages": [
-        {
-          "furigana": "町｜まち",
-          "meaning": "town"
-        },
-        {
-          "furigana": "北｜きた　町｜まち",
-          "meaning": "Kitamachi (place-name)"
-        },
-        {
-          "furigana": "市｜し　区｜く　町｜ちょう　村｜そん",
-          "meaning": "local municipalities"
-        },
-        {
-          "furigana": "町｜ちょう　長｜ちょう",
-          "meaning": "town major"
-        },
-        {
-          "furigana": "町｜ちょう　内｜ない",
-          "meaning": "neighborhood"
+          "character": "町",
+          "number": 162,
+          "meaning": "town, city",
+          "usages": [
+            {
+              "furigana": "町｜まち",
+              "meaning": "town"
+            },
+            {
+              "furigana": "北｜きた　町｜まち",
+              "meaning": "Kitamachi (place-name)"
+            },
+            {
+              "furigana": "市｜し　区｜く　町｜ちょう　村｜そん",
+              "meaning": "local municipalities"
+            },
+            {
+              "furigana": "町｜ちょう　長｜ちょう",
+              "meaning": "town major"
+            },
+            {
+              "furigana": "町｜ちょう　内｜ない",
+              "meaning": "neighborhood"
+            }
+          ]
         }
       ]
     }
